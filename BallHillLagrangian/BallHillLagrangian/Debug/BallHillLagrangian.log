@@ -1,18 +1,19 @@
-﻿Build started 6/1/2016 12:58:09 PM.
-     1>Project "Z:\IGMProfile\Documents\Tutorials\Physics\BallHillLagrangian\BallHillLagrangian\BallHillLagrangian.vcxproj" on node 2 (Build target(s)).
+﻿Build started 6/2/2016 10:55:43 AM.
+     1>Project "D:\Users\spc1802\physics-ballHillLagrangian-tutorial\BallHillLagrangian\BallHillLagrangian\BallHillLagrangian.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
          main.cpp
-     1>z:\igmprofile\documents\tutorials\physics\ballhilllagrangian\ballhilllagrangian\main.cpp(514): warning C4018: '<' : signed/unsigned mismatch
-     1>z:\igmprofile\documents\tutorials\physics\ballhilllagrangian\ballhilllagrangian\main.cpp(516): warning C4018: '<' : signed/unsigned mismatch
-     1>z:\igmprofile\documents\tutorials\physics\ballhilllagrangian\ballhilllagrangian\main.cpp(591): warning C4101: 'sx' : unreferenced local variable
-     1>z:\igmprofile\documents\tutorials\physics\ballhilllagrangian\ballhilllagrangian\main.cpp(591): warning C4101: 'sz' : unreferenced local variable
+     1>d:\users\spc1802\physics-ballhilllagrangian-tutorial\ballhilllagrangian\ballhilllagrangian\main.cpp(514): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\users\spc1802\physics-ballhilllagrangian-tutorial\ballhilllagrangian\ballhilllagrangian\main.cpp(516): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\users\spc1802\physics-ballhilllagrangian-tutorial\ballhilllagrangian\ballhilllagrangian\main.cpp(591): warning C4101: 'sx' : unreferenced local variable
+     1>d:\users\spc1802\physics-ballhilllagrangian-tutorial\ballhilllagrangian\ballhilllagrangian\main.cpp(591): warning C4101: 'sz' : unreferenced local variable
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\IGMProfile\Documents\Tutorials\Physics\BallHillLagrangian\Debug\BallHillLagrangian.exe" /INCREMENTAL /NOLOGO opengl32.lib glew32.lib glew32s.lib glfw3.lib SOIL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Z:\IGMProfile\Documents\Tutorials\Physics\BallHillLagrangian\Debug\BallHillLagrangian.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\IGMProfile\Documents\Tutorials\Physics\BallHillLagrangian\Debug\BallHillLagrangian.lib" /MACHINE:X86 Debug\main.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\spc1802\physics-ballHillLagrangian-tutorial\BallHillLagrangian\Debug\BallHillLagrangian.exe" /INCREMENTAL /NOLOGO opengl32.lib glew32.lib glew32s.lib glfw3.lib SOIL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\spc1802\physics-ballHillLagrangian-tutorial\BallHillLagrangian\Debug\BallHillLagrangian.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\spc1802\physics-ballHillLagrangian-tutorial\BallHillLagrangian\Debug\BallHillLagrangian.lib" /MACHINE:X86 Debug\main.obj
+         LINK : D:\Users\spc1802\physics-ballHillLagrangian-tutorial\BallHillLagrangian\Debug\BallHillLagrangian.exe not found or not built by the last incremental link; performing full link
      1>LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-         BallHillLagrangian.vcxproj -> Z:\IGMProfile\Documents\Tutorials\Physics\BallHillLagrangian\Debug\BallHillLagrangian.exe
-     1>Done Building Project "Z:\IGMProfile\Documents\Tutorials\Physics\BallHillLagrangian\BallHillLagrangian\BallHillLagrangian.vcxproj" (Build target(s)).
+         BallHillLagrangian.vcxproj -> D:\Users\spc1802\physics-ballHillLagrangian-tutorial\BallHillLagrangian\Debug\BallHillLagrangian.exe
+     1>Done Building Project "D:\Users\spc1802\physics-ballHillLagrangian-tutorial\BallHillLagrangian\BallHillLagrangian\BallHillLagrangian.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:03.52
+Time Elapsed 00:00:01.23
